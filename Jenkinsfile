@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('hello') {
             steps {
-                sh '/home/ec2-user/reddy.sh'
+                sh '/home/ec2-user/nsr.sh'
             }
         }
     }
