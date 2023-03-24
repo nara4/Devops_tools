@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('hello') {
             steps {
-                sh '/root/git_class/Devops_tools/nsr.sh'
+                sh '/home/ec2-user/nsr.sh'
             }
         }
     }
