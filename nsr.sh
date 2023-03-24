@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Welcome to kottakapu Family!!!"
+echo "Hi, Welcome to kottakapu Family!!!"
