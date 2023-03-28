@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ('hello') {
             steps {
-                sh 'chmod +x /root/git_class/Devops_tools/nsr.sh'
+                sh '/root/git_class/Devops_tools/nsr.sh'
             }
         }
     }
